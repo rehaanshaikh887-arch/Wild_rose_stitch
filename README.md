@@ -67,7 +67,7 @@ flex-wrap:wrap;
 margin-top:30px;
 }
 
-.gallery img{Img-20260227-WA0055.jpg
+.gallery img{
 width:280px;
 height:380px;
 object-fit:cover;
